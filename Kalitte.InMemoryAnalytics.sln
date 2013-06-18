@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JDash.InMemoryAnalytics", "JDash.InMemoryAnalytics\JDash.InMemoryAnalytics.csproj", "{0378FD93-B852-478C-B02C-74A9B9CD0804}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JDash.SimpleAnalytics.SampleProject", "JDash.InMemoryAnalytics.SampleApp\JDash.SimpleAnalytics.SampleProject.csproj", "{821D5CAF-7F20-41DB-AF09-27301F3FA830}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0378FD93-B852-478C-B02C-74A9B9CD0804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0378FD93-B852-478C-B02C-74A9B9CD0804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0378FD93-B852-478C-B02C-74A9B9CD0804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0378FD93-B852-478C-B02C-74A9B9CD0804}.Release|Any CPU.Build.0 = Release|Any CPU
+		{821D5CAF-7F20-41DB-AF09-27301F3FA830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{821D5CAF-7F20-41DB-AF09-27301F3FA830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{821D5CAF-7F20-41DB-AF09-27301F3FA830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{821D5CAF-7F20-41DB-AF09-27301F3FA830}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

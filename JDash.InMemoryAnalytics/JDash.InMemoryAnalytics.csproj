@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0378FD93-B852-478C-B02C-74A9B9CD0804}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>JDash.InMemoryAnalytics</RootNamespace>
+    <AssemblyName>JDash.InMemoryAnalytics</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Engine\DataEngine.cs" />
+    <Compile Include="Engine\Cell.cs" />
+    <Compile Include="Engine\DataHeader.cs" />
+    <Compile Include="Engine\DataListEngine.cs" />
+    <Compile Include="Engine\DynamicObject.cs" />
+    <Compile Include="Engine\DynamicLibrary.cs" />
+    <Compile Include="Engine\HeaderType.cs" />
+    <Compile Include="Engine\DataCell.cs" />
+    <Compile Include="Engine\HeaderCell.cs" />
+    <Compile Include="Engine\MdQuery.cs" />
+    <Compile Include="Engine\MdQueryResult.cs" />
+    <Compile Include="Extensions\Config.cs" />
+    <Compile Include="Extensions\Helper.cs" />
+    <Compile Include="Engine\DataList.cs" />
+    <Compile Include="Engine\DataItemPropertyDescriptor.cs" />
+    <Compile Include="Modeling\CubeModel.cs" />
+    <Compile Include="Engine\DataItem.cs" />
+    <Compile Include="Modeling\DataType.cs" />
+    <Compile Include="Modeling\AggregationType.cs" />
+    <Compile Include="Modeling\DataModel.cs" />
+    <Compile Include="Modeling\DimensionModel.cs" />
+    <Compile Include="Modeling\MeasureModel.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Engine\Sort.cs" />
+    <Compile Include="View\DataFormat.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

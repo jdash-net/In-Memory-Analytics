@@ -1,0 +1,423 @@
+Year;Month;Payment Type;State;Country;Product;Quantity;Unit Price;VAT;Total Price
+2009;5;CCA;VA;USA;CRM Application;1;99;0;99
+2009;6;CCA;VA;USA;CRM Application;1;99;0;99
+2009;6;CCA;VA;USA;Invoice Application;1;12,5;0;12,5
+2009;6;PAL;;Greece;CRM Application;1;99;19;99
+2009;7;CCA;UT;USA;CRM Application;1;99;0;99
+2009;7;CCA;;United Kingdom;CRM Application;1;99;19;99
+2009;7;CCA;;United Kingdom;CRM Application;1;99;0;99
+2009;7;PAL;VA;USA;CRM Application;1;99;0;99
+2009;7;PAL;MI;USA;CRM Application;1;99;0;99
+2009;8;CCA;NJ;USA;CRM Application;1;129;0;129
+2009;8;CCA;TX;USA;ERP Application;1;199;0;199
+2009;8;CCA;AL;USA;Invoice Application;1;129;0;129
+2009;8;CCA;;Thailand;ERP Application;1;199;0;199
+2009;8;CCA;;Thailand;Invoice Application;1;4,99;0;4,99
+2009;8;CCA;IN;USA;ERP Application;2;179,1;0;358,2
+2009;9;CCA;CA;USA;ERP Application;1;199;0;199
+2009;10;CCA;AL;USA;ERP Application;1;199;0;199
+2009;10;CCA;;United Kingdom;ERP Application;1;199;0;199
+2009;11;CCA;;United Kingdom;BI Application;1;299;0;299
+2009;11;CCA;IL;USA;ERP Application;1;199;0;199
+2009;11;CCA;;Egypt;BI Application;1;299;0;299
+2009;11;CCA;FL;USA;BI Application;1;299;0;299
+2009;11;CCA;IL;USA;BI Application;1;299;0;299
+2009;12;CCA;LA;USA;Invoice Application;1;199;0;199
+2009;12;PAL;TX;USA;BI Application;5;239,2;0;1196
+2009;12;CCA;;Germany;Invoice Application;1;199;19;199
+2009;12;CCA;FL;USA;BI Application;5;239,2;0;1196
+2009;12;CCA;UT;USA;BI Application;5;239,2;0;1196
+2009;12;CCA;CA;USA;BI Application;1;299;0;299
+2009;12;CCA;BC;Canada;BI Application;1;299;0;299
+2010;1;CCA;;Denmark;BI Application;1;499;0;499
+2010;1;CCA;;Denmark;CRM Application;1;6,99;0;6,99
+2010;1;CCA;PA;USA;BI Application;5;395;0;1975
+2010;1;CCA;PA;USA;CRM Application;1;6,99;0;6,99
+2010;1;PAL;CA;USA;BI Application;1;499;0;399,2
+2010;1;PAL;CA;USA;CRM Application;1;6,99;0;6,99
+2010;1;CCA;;Germany;BI Application;1;499;19;499
+2010;1;CCA;;Germany;CRM Application;1;6,99;19;6,99
+2010;1;CCA;CA;USA;BI Application;1;499;0;499
+2010;1;CCA;CA;USA;CRM Application;1;6,99;0;6,99
+2010;2;PAL;CA;USA;BI Application;1;499;0;499
+2010;2;PAL;CA;USA;CRM Application;1;6,99;0;6,99
+2010;2;CCA;;Nigeria;BI Application;1;499;0;499
+2010;3;CCA;ON;Canada;BI Application;1;449;0;449
+2010;3;CCA;ON;Canada;CRM Application;1;6,99;0;6,99
+2010;3;CCA;MI;USA;BI Application;1;449;0;449
+2010;3;CCA;;France;BI Application;1;449;0;449
+2010;3;CCA;;France;CRM Application;1;6,99;0;6,99
+2010;3;CCA;NE;USA;BI Application;2;474,05;0;948,1
+2010;3;CCA;NE;USA;CRM Application;1;6,99;0;6,99
+2010;3;CCA;OH;USA;BI Application;5;350;0;1750
+2010;3;CCA;OH;USA;CRM Application;1;6,99;0;6,99
+2010;3;CCA;NY;USA;BI Application;1;449;0;449
+2010;3;CCA;NY;USA;CRM Application;1;6,99;0;6,99
+2010;3;CCA;;Brazil;BI Application;1;449;0;449
+2010;3;CCA;;Brazil;CRM Application;1;6,99;0;6,99
+2010;4;PAL;;United Kingdom;BI Application;1;499;19;454,09
+2010;4;PAL;;United Kingdom;CRM Application;1;6,99;19;6,99
+2010;4;CCA;MI;USA;CRM Application;1;6,99;0;6,99
+2010;4;CCA;;United Kingdom;BI Application;2;474,05;0;948,1
+2010;4;CCA;AR;USA;BI Application;2;474,05;0;948,1
+2010;4;CCA;AR;USA;CRM Application;1;6,99;0;6,99
+2010;4;CCA;;Taiwan;BI Application;1;499;0;499
+2010;5;CCA;ON;Canada;BI Application;3;474,05;0;1422,15
+2010;5;CCA;ON;Canada;CRM Application;1;6,99;0;6,99
+2010;5;CCA;CA;USA;BI Application;1;499;0;499
+2010;5;CCA;CA;USA;CRM Application;1;6,99;0;6,99
+2010;5;CCA;MI;USA;BI Application;1;499;0;499
+2010;5;CCA;MI;USA;CRM Application;1;6,99;0;6,99
+2010;6;CCA;ME;USA;BI Application;3;474,05;0;1422,15
+2010;6;CCA;ME;USA;CRM Application;1;6,99;0;6,99
+2010;6;CCA;;South Africa;BI Application;1;499;0;499
+2010;6;CCA;;South Africa;CRM Application;1;6,99;0;6,99
+2010;6;CCA;;India;BI Application;1;499;0;499
+2010;6;CCA;;India;CRM Application;1;6,99;0;6,99
+2010;6;CCA;;Malaysia;Invoice Application;1;349;0;349
+2010;6;CCA;;Malaysia;CRM Application;1;6,99;0;6,99
+2010;7;CCA;CA;USA;BI Application;5;424,15;0;2120,75
+2010;7;PAL;FL;USA;BI Application;1;549;0;549
+2010;7;PAL;FL;USA;CRM Application;1;6,99;0;6,99
+2010;7;CCA;;Netherlands;BI Application;1;549;0;549
+2010;7;CCA;IL;USA;BI Application;1;549;0;494,1
+2010;7;PAL;;Germany;BI Application;1;549;19;549
+2010;7;CCA;;Australia;BI Application;1;549;0;549
+2010;7;CCA;;Australia;CRM Application;1;6,99;0;6,99
+2010;7;CCA;;Australia;Invoice Application;1;12,5;0;12,5
+2010;7;PAL;;United Kingdom;BI Application;1;549;0;549
+2010;7;PAL;;United Kingdom;CRM Application;1;6,99;0;6,99
+2010;7;PAL;;United Kingdom;Invoice Application;1;12,5;0;12,5
+2010;7;CCA;ON;Canada;BI Application;1;549;0;549
+2010;7;CCA;ON;Canada;CRM Application;1;6,99;0;6,99
+2010;7;CCA;;Switzerland;BI Application;1;549;0;549
+2010;7;CCA;;Switzerland;CRM Application;1;6,99;0;6,99
+2010;7;CCA;;Belgium;BI Application;1;549;0;549
+2010;8;CCA;VA;USA;BI Application;1;549;0;549
+2010;8;CCA;VA;USA;CRM Application;1;6,99;0;6,99
+2010;8;CCA;;Netherlands;BI Application;2;474,05;0;948,1
+2010;8;CCA;;United Kingdom;BI Application;1;549;19;549
+2010;8;CCA;;United Kingdom;CRM Application;1;6,99;19;6,99
+2010;8;CCA;VA;USA;BI Application;1;549;0;125
+2010;8;CCA;;Thailand;ERP Application;1;60;0;60
+2010;8;CCA;IN;USA;ERP Application;2;53,7;0;107,4
+2010;8;CCA;CA;USA;BI Application;1;549;0;549
+2010;8;CCA;CA;USA;CRM Application;1;6,99;0;6,99
+2010;8;CCA;;New Zealand;BI Application;1;549;0;549
+2010;8;CCA;;New Zealand;CRM Application;1;6,99;0;6,99
+2010;8;CCA;OR;USA;BI Application;1;549;0;549
+2010;8;CCA;OR;USA;CRM Application;1;6,99;0;6,99
+2010;8;PAL;;Taiwan;BI Application;5;424,15;0;2120,75
+2010;8;PAL;;Taiwan;CRM Application;1;6,99;0;6,99
+2010;9;CCA;NY;USA;BI Application;1;549;0;549
+2010;9;CCA;NY;USA;CRM Application;1;6,99;0;6,99
+2010;9;CCA;NY;USA;BI Application;5;424,15;0;2120,75
+2010;9;CCA;NY;USA;CRM Application;1;6,99;0;6,99
+2010;9;CCA;CA;USA;ERP Application;1;60;0;60
+2010;10;CCA;GA;USA;BI Application;1;549;0;549
+2010;10;CCA;GA;USA;CRM Application;1;6,99;0;6,99
+2010;10;CCA;OH;USA;BI Application;1;549;0;549
+2010;10;CCA;OH;USA;CRM Application;1;6,99;0;6,99
+2010;10;CCA;OH;USA;Invoice Application;1;12,5;0;12,5
+2010;10;CCA;VA;USA;BI Application;1;549;0;549
+2010;10;CCA;VA;USA;CRM Application;1;6,99;0;6,99
+2010;10;CCA;AL;USA;ERP Application;1;60;0;60
+2010;10;CCA;;United Kingdom;ERP Application;1;60;0;60
+2010;11;CCA;MI;USA;BI Application;1;549;0;549
+2010;11;CCA;MI;USA;CRM Application;1;6,99;0;6,99
+2010;11;PAL;;Germany;BI Application;1;549;19;549
+2010;11;PAL;;Germany;CRM Application;1;6,99;19;6,99
+2010;11;WTR;;Taiwan;BI Application;1;549;0;549
+2010;11;CCA;;Germany;BI Application;1;549;19;549
+2010;11;CCA;;Germany;CRM Application;1;6,99;19;6,99
+2010;11;CCA;PA;USA;BI Application;1;549;0;549
+2010;11;CCA;PA;USA;CRM Application;1;6,99;0;6,99
+2010;12;CCA;NC;USA;BI Application;1;549;0;549
+2010;12;CCA;NC;USA;CRM Application;1;6,99;0;6,99
+2010;12;CCA;;Brazil;BI Application;1;549;0;549
+2010;12;CCA;;United Kingdom;BI Application;1;549;19;549
+2011;1;CCA;MI;USA;BI Application;5;424,15;0;2120,75
+2011;1;CCA;MI;USA;CRM Application;1;6,99;0;6,99
+2011;1;CCA;MI;USA;Invoice Application;1;12,5;0;12,5
+2011;1;CCA;;United Arab Emirates;BI Application;1;549;0;549
+2011;1;CCA;;United Arab Emirates;CRM Application;1;6,99;0;6,99
+2011;1;CCA;;United Arab Emirates;Invoice Application;1;4,99;0;4,99
+2011;1;CCA;;South Africa;BI Application;1;549;0;549
+2011;1;CCA;;South Africa;CRM Application;1;6,99;0;6,99
+2011;1;CCA;;Australia;BI Application;1;549;0;549
+2011;1;CCA;;Australia;CRM Application;1;6,99;0;6,99
+2011;2;CCA;;Ireland;BI Application;5;424,15;0;2120,75
+2011;2;CCA;;Ireland;CRM Application;1;6,99;0;6,99
+2011;2;CCA;FL;USA;Subscription;5;106,04;0;530,2
+2011;2;CCA;FL;USA;CRM Application;1;6,99;0;6,99
+2011;2;CCA;;Brazil;BI Application;1;549;0;549
+2011;2;CCA;;Brazil;CRM Application;1;6,99;0;6,99
+2011;2;CCA;WI;USA;Subscription;1;125,75;0;125,75
+2011;2;CCA;WI;USA;CRM Application;1;6,99;0;6,99
+2011;2;CCA;;United Kingdom;BI Application;1;549;19;549
+2011;2;CCA;;United Kingdom;CRM Application;1;6,99;19;6,99
+2011;3;CCA;;India;BI Application;2;474,05;0;948,1
+2011;3;CCA;;India;CRM Application;1;6,99;0;6,99
+2011;3;CCA;;Brazil;BI Application;1;549;0;549
+2011;3;CCA;;Brazil;CRM Application;1;6,99;0;6,99
+2011;3;CCA;CO;USA;BI Application;1;549;0;549
+2011;3;CCA;CO;USA;CRM Application;1;6,99;0;6,99
+2011;3;WTR;;Netherlands;BI Application;1;549;0;549
+2011;3;WTR;;Netherlands;CRM Application;1;6,99;0;6,99
+2011;4;CCA;;United Kingdom;BI Application;1;549;0;549
+2011;4;CCA;VA;USA;BI Application;1;549;0;549
+2011;4;CCA;VA;USA;CRM Application;1;6,99;0;6,99
+2011;4;CCA;;South Africa;BI Application;2;474,05;0;948,1
+2011;4;CCA;;South Africa;CRM Application;1;6,99;0;6,99
+2011;4;CCA;;United Kingdom;BI Application;1;549;0;549
+2011;4;CCA;;United Kingdom;CRM Application;1;6,99;0;6,99
+2011;4;CCA;IL;USA;BI Application;5;424,15;0;2120,75
+2011;4;CCA;IL;USA;CRM Application;1;6,99;0;6,99
+2011;4;CCA;;Brazil;Subscription;1;125,75;0;125,75
+2011;4;CCA;MO;USA;BI Application;2;474,05;0;948,1
+2011;4;CCA;TX;USA;BI Application;1;549;0;549
+2011;4;CCA;TX;USA;CRM Application;1;6,99;0;6,99
+2011;4;CCA;TX;USA;Invoice Application;1;4,99;0;4,99
+2011;5;CCA;;France;BI Application;5;424,15;19;2120,75
+2011;5;CCA;;France;CRM Application;1;6,99;19;6,99
+2011;5;CCA;;United Kingdom;BI Application;2;474,05;19;948,1
+2011;5;CCA;ON;Canada;BI Application;1;549;0;549
+2011;5;CCA;NC;USA;BI Application;1;549;0;549
+2011;5;CCA;VA;USA;BI Application;1;549;0;549
+2011;5;CCA;VA;USA;CRM Application;1;6,99;0;6,99
+2011;5;CCA;CA;USA;BI Application;5;424,15;0;2120,75
+2011;5;CCA;CA;USA;CRM Application;1;6,99;0;6,99
+2011;5;CCA;CA;USA;BI Application;1;549;0;549
+2011;6;CCA;NY;USA;BI Application;1;549;0;549
+2011;6;CCA;NY;USA;CRM Application;1;6,99;0;6,99
+2011;6;CCA;NC;USA;BI Application;1;549;0;549
+2011;6;CCA;NC;USA;CRM Application;1;6,99;0;6,99
+2011;6;CCA;;New Zealand;BI Application;1;549;0;549
+2011;6;CCA;;New Zealand;CRM Application;1;6,99;0;6,99
+2011;6;CCA;;Sweden;BI Application;1;549;0;549
+2011;6;CCA;;Sweden;CRM Application;1;6,99;0;6,99
+2011;6;PAL;;Sweden;BI Application;1;549;0;549
+2011;6;PAL;;Sweden;CRM Application;1;6,99;0;6,99
+2011;6;CCA;WA;USA;BI Application;1;549;0;549
+2011;6;CCA;WA;USA;CRM Application;1;6,99;0;6,99
+2011;6;CCA;WA;USA;Invoice Application;1;4,99;0;4,99
+2011;6;CCA;WA;USA;Invoice Application;1;12,5;0;12,5
+2011;6;CCA;;United Kingdom;BI Application;1;549;19;549
+2011;6;CCA;;United Kingdom;CRM Application;1;6,99;19;6,99
+2011;6;PAL;ON;Canada;BI Application;1;549;0;549
+2011;6;CCA;;Netherlands;BI Application;1;549;0;549
+2011;7;CCA;;France;BI Application;1;549;0;549
+2011;7;CCA;;France;CRM Application;1;6,99;0;6,99
+2011;7;CCA;;France;Invoice Application;1;4,99;0;4,99
+2011;7;CCA;VA;USA;BI Application;1;549;0;549
+2011;7;CCA;;United Kingdom;CRM Application;1;6,99;19;6,99
+2011;7;CCA;;Germany;BI Application;1;549;19;549
+2011;7;WTR;;Italy;BI Application;1;549;0;549
+2011;7;WTR;;Italy;Invoice Application;1;12,5;0;12,5
+2011;7;CCA;ON;Canada;BI Application;1;549;0;549
+2011;7;CCA;ON;Canada;CRM Application;1;6,99;0;6,99
+2011;8;CCA;CO;USA;BI Application;1;549;0;549
+2011;8;CCA;CO;USA;CRM Application;1;6,99;0;6,99
+2011;8;CCA;CA;USA;BI Application;1;549;0;549
+2011;8;CCA;CA;USA;CRM Application;1;6,99;0;6,99
+2011;8;CCA;CA;USA;Invoice Application;1;4,99;0;4,99
+2011;8;CCA;CA;USA;Invoice Application;1;12,5;0;12,5
+2011;8;CCA;CA;USA;BI Application;1;549;0;549
+2011;8;CCA;CA;USA;CRM Application;1;6,99;0;6,99
+2011;8;CCA;FL;USA;BI Application;3;474,05;0;1422,15
+2011;8;CCA;FL;USA;CRM Application;1;6,99;0;6,99
+2011;8;CCA;TX;USA;BI Application;1;549;0;549
+2011;8;CCA;TX;USA;CRM Application;1;6,99;0;6,99
+2011;8;CCA;IN;USA;ERP Application;2;53,7;0;107,4
+2011;8;PAL;ON;Canada;BI Application;1;549;0;549
+2011;8;PAL;ON;Canada;CRM Application;1;6,99;0;6,99
+2011;9;CCA;;Turkey;BI Application;1;549;0;549
+2011;9;PAL;;Netherlands;BI Application;1;549;0;549
+2011;9;CCA;NJ;USA;BI Application;1;549;0;549
+2011;9;CCA;WI;USA;BI Application;1;549;0;549
+2011;9;CCA;WI;USA;CRM Application;1;6,99;0;6,99
+2011;9;CCA;NJ;USA;BI Application;1;549;0;549
+2011;9;CCA;NJ;USA;CRM Application;1;6,99;0;6,99
+2011;9;CCA;SC;USA;BI Application;5;424,15;0;2120,75
+2011;9;CCA;SC;USA;CRM Application;1;6,99;0;6,99
+2011;9;PAL;;India;BI Application;1;549;0;466,65
+2011;10;CCA;MO;USA;BI Application;5;424,15;0;2120,75
+2011;10;CCA;MO;USA;CRM Application;1;6,99;0;6,99
+2011;10;CCA;GA;USA;BI Application;1;549;0;549
+2011;10;CCA;GA;USA;CRM Application;1;6,99;0;6,99
+2011;10;CCA;;Dominican Republic;BI Application;1;549;0;549
+2011;10;CCA;;Dominican Republic;CRM Application;1;6,99;0;6,99
+2011;10;CCA;;United Kingdom;ERP Application;1;60;0;60
+2011;11;CCA;;Turkey;BI Application;1;549;0;549
+2011;11;CCA;;Turkey;CRM Application;1;6,99;0;6,99
+2011;11;CCA;WI;USA;BI Application;4;474,05;0;1554,88
+2011;11;CCA;WI;USA;CRM Application;1;6,99;0;6,99
+2011;11;CCA;;United Kingdom;BI Application;1;549;0;549
+2011;11;CCA;;United Kingdom;CRM Application;1;6,99;0;6,99
+2011;12;PAL;CA;USA;BI Application;1;549;0;549
+2011;12;PAL;CA;USA;CRM Application;1;6,99;0;6,99
+2011;12;CCA;;Italy;BI Application;1;549;0;549
+2011;12;CCA;;Italy;CRM Application;1;6,99;0;6,99
+2011;12;CCA;;Turkey;BI Application;1;549;0;549
+2011;12;CCA;;Turkey;CRM Application;1;6,99;0;6,99
+2012;1;CCA;TX;USA;BI Application;1;549;0;549
+2012;1;CCA;TX;USA;CRM Application;1;6,99;0;6,99
+2012;1;CCA;;Taiwan;BI Application;1;549;0;549
+2012;1;CCA;;Taiwan;CRM Application;1;6,99;0;6,99
+2012;1;CCA;;Taiwan;Invoice Application;1;4,99;0;4,99
+2012;1;CCA;;Taiwan;Invoice Application;1;12,5;0;12,5
+2012;1;CCA;MI;USA;Subscription;1;125,75;0;125,75
+2012;1;CCA;;Italy;BI Application;1;549;0;549
+2012;1;CCA;;Italy;CRM Application;1;6,99;0;6,99
+2012;1;CCA;IN;USA;BI Application;1;549;0;549
+2012;1;CCA;IN;USA;CRM Application;1;6,99;0;6,99
+2012;1;CCA;NY;USA;BI Application;1;549;0;549
+2012;2;CCA;;United Kingdom;BI Application;1;549;19;549
+2012;2;PAL;NY;USA;BI Application;1;549;0;549
+2012;2;PAL;NY;USA;CRM Application;1;6,99;0;6,99
+2012;2;CCA;;Saudi Arabia;BI Application;1;549;0;549
+2012;2;CCA;;Saudi Arabia;CRM Application;1;6,99;0;6,99
+2012;2;CCA;;Germany;BI Application;5;424,15;19;2120,75
+2012;2;CCA;;Germany;CRM Application;1;6,99;19;6,99
+2012;3;CCA;CA;USA;BI Application;1;549;0;549
+2012;3;CCA;CA;USA;CRM Application;1;6,99;0;6,99
+2012;3;CCA;;Singapore;BI Application;1;549;0;549
+2012;3;CCA;;Singapore;CRM Application;1;6,99;0;6,99
+2012;3;CCA;MI;USA;BI Application;2;474,05;0;948,1
+2012;3;CCA;PA;USA;BI Application;1;549;0;549
+2012;3;CCA;PA;USA;CRM Application;1;6,99;0;6,99
+2012;3;CCA;NC;USA;BI Application;1;549;0;549
+2012;3;CCA;NC;USA;CRM Application;1;6,99;0;6,99
+2012;3;PAL;;Norway;BI Application;1;549;0;549
+2012;3;PAL;;Norway;CRM Application;1;6,99;0;6,99
+2012;3;CCA;OH;USA;BI Application;1;549;0;549
+2012;3;CCA;;Netherlands;BI Application;1;549;19;549
+2012;3;CCA;;Netherlands;CRM Application;1;6,99;19;6,99
+2012;4;CCA;CA;USA;BI Application;1;549;0;549
+2012;4;CCA;;France;BI Application;1;549;0;549
+2012;4;CCA;;France;BI Application;1;549;0;549
+2012;4;CCA;;France;CRM Application;1;6,99;0;6,99
+2012;4;CCA;MN;USA;BI Application;1;549;7,125;549
+2012;4;CCA;CA;USA;BI Application;2;474,05;0;948,1
+2012;4;CCA;CA;USA;CRM Application;1;6,99;0;6,99
+2012;4;CCA;;New Zealand;BI Application;1;549;0;549
+2012;4;CCA;;New Zealand;CRM Application;1;6,99;0;6,99
+2012;4;WTR;;Italy;BI Application;1;549;0;549
+2012;4;WTR;;Italy;CRM Application;1;6,99;0;6,99
+2012;4;CCA;NE;USA;BI Application;1;549;0;549
+2012;4;CCA;NE;USA;CRM Application;1;6,99;0;6,99
+2012;4;CCA;MA;USA;BI Application;1;549;0;549
+2012;4;CCA;;Brazil;Subscription;1;125,75;0;125,75
+2012;5;CCA;FL;USA;BI Application;1;549;0;549
+2012;5;CCA;FL;USA;CRM Application;1;6,99;0;6,99
+2012;5;CCA;MA;USA;BI Application;1;549;0;549
+2012;5;CCA;MA;USA;CRM Application;1;6,99;0;6,99
+2012;5;CCA;CA;USA;BI Application;2;474,05;0;948,1
+2012;5;CCA;CA;USA;CRM Application;1;6,99;0;6,99
+2012;5;CCA;CA;USA;Invoice Application;1;4,99;0;4,99
+2012;5;CCA;;United Kingdom;BI Application;1;549;0;549
+2012;5;CCA;;United Kingdom;CRM Application;1;6,99;0;6,99
+2012;6;CCA;;United Kingdom;BI Application;1;549;19;549
+2012;6;CCA;;United Kingdom;CRM Application;1;6,99;19;6,99
+2012;6;CCA;VA;USA;Subscription;1;125,75;0;125,75
+2012;6;CCA;MN;USA;BI Application;1;549;7,275;549
+2012;6;CCA;MN;USA;CRM Application;1;6,99;7,275;6,99
+2012;6;CCA;MN;USA;Invoice Application;1;4,99;7,275;4,99
+2012;6;CCA;;Brazil;BI Application;1;549;0;549
+2012;6;CCA;;Brazil;CRM Application;1;6,99;0;6,99
+2012;6;CCA;;Brazil;Invoice Application;1;4,99;0;4,99
+2012;6;CCA;;Brazil;Invoice Application;1;12,5;0;12,5
+2012;7;CCA;OH;USA;BI Application;1;549;0;549
+2012;7;CCA;;South Africa;BI Application;1;549;0;549
+2012;7;CCA;;South Africa;CRM Application;1;6,99;0;6,99
+2012;7;CCA;;South Africa;BI Application;1;549;0;549
+2012;7;CCA;;South Africa;CRM Application;1;6,99;0;6,99
+2012;7;CCA;IL;USA;BI Application;2;474,05;0;948,1
+2012;7;CCA;IL;USA;CRM Application;1;6,99;0;6,99
+2012;7;CCA;IL;USA;Invoice Application;1;4,99;0;4,99
+2012;7;PAL;FL;USA;BI Application;1;549;0;549
+2012;7;PAL;FL;USA;CRM Application;1;6,99;0;6,99
+2012;8;CCA;;United Kingdom;BI Application;1;549;19;549
+2012;8;CCA;;United Kingdom;CRM Application;1;6,99;19;6,99
+2012;8;CCA;VA;USA;Subscription;1;125,75;0;125,75
+2012;8;CCA;OH;USA;BI Application;5;424,15;0;2120,75
+2012;8;CCA;OH;USA;CRM Application;1;6,99;0;6,99
+2012;8;CCA;VA;USA;BI Application;1;549;0;549
+2012;8;CCA;VA;USA;CRM Application;1;6,99;0;6,99
+2012;8;CCA;VA;USA;BI Application;5;411,75;0;2058,75
+2012;8;CCA;VA;USA;CRM Application;1;6,99;0;6,99
+2012;8;CCA;VA;USA;Invoice Application;1;12,5;0;12,5
+2012;8;CCA;FL;USA;BI Application;1;549;0;549
+2012;8;CCA;FL;USA;CRM Application;1;6,99;0;6,99
+2012;9;CCA;NY;USA;BI Application;5;411,75;0;2058,75
+2012;9;CCA;NY;USA;CRM Application;1;6,99;0;6,99
+2012;9;CCA;JP-13;Japan;BI Application;1;549;0;549
+2012;9;CCA;JP-13;Japan;CRM Application;1;6,99;0;6,99
+2012;9;CCA;;Norway;BI Application;1;549;0;549
+2012;9;PAL;FL;USA;BI Application;1;549;0;549
+2012;9;PAL;FL;USA;CRM Application;1;6,99;0;6,99
+2012;9;CCA;AZ;USA;BI Application;5;411,75;0;2058,75
+2012;9;CCA;AZ;USA;CRM Application;1;6,99;0;6,99
+2012;9;CCA;AZ;USA;Invoice Application;1;12,5;0;12,5
+2012;9;PAL;FL;USA;Custom Development;1;1750;0;1750
+2012;9;CCA;WA;USA;BI Application;1;549;0;549
+2012;9;CCA;;United Arab Emirates;BI Application;1;549;0;549
+2012;9;CCA;;United Arab Emirates;CRM Application;1;6,99;0;6,99
+2012;9;CCA;;Singapore;BI Application;1;549;0;549
+2012;9;CCA;;Singapore;CRM Application;1;6,99;0;6,99
+2012;10;CCA;;Sweden;BI Application;1;549;19;549
+2012;10;CCA;;Sweden;CRM Application;1;6,99;19;6,99
+2012;10;CCA;PA;USA;BI Application;1;549;0;549
+2012;10;CCA;PA;USA;CRM Application;1;6,99;0;6,99
+2012;10;CCA;CA;USA;BI Application;1;549;0;549
+2012;10;CCA;CA;USA;CRM Application;1;6,99;0;6,99
+2012;10;CCA;VA;USA;BI Application;1;549;0;549
+2012;10;CCA;VA;USA;CRM Application;1;6,99;0;6,99
+2012;10;CCA;AB;Canada;BI Application;1;549;0;549
+2012;10;CCA;AB;Canada;CRM Application;1;6,99;0;6,99
+2012;10;CCA;;United Kingdom;ERP Application;1;60;0;60
+2012;11;CCA;MN;USA;BI Application;1;549;7,625;549
+2012;11;CCA;;Sweden;BI Application;4;466,65;0;1726,6
+2012;11;CCA;;Mexico;Invoice Application;1;349;0;349
+2012;11;CCA;;Mexico;CRM Application;1;6,99;0;6,99
+2012;11;CCA;MD;USA;BI Application;5;411,75;0;1029,37
+2012;11;CCA;MD;USA;CRM Application;1;6,99;0;6,99
+2012;11;CCA;OH;USA;BI Application;2;466,65;0;839,97
+2012;11;CCA;;New Zealand;Subscription;1;120;0;120
+2012;11;CCA;;New Zealand;Invoice Application;1;12,5;0;12,5
+2012;11;CCA;CA;USA;BI Application;1;549;0;549
+2012;11;CCA;CA;USA;CRM Application;1;6,99;0;6,99
+2012;11;PAL;;United Kingdom;BI Application;1;549;0;549
+2012;11;CCA;;Australia;BI Application;1;549;0;549
+2012;11;CCA;CA;USA;Subscription;2;102;0;204
+2012;12;CCA;;South Africa;BI Application;1;549;0;549
+2012;12;CCA;;South Africa;CRM Application;1;6,99;0;6,99
+2012;12;CCA;;United Kingdom;BI Application;1;549;19;549
+2012;12;CCA;;Norway;Subscription;1;120;0;120
+2012;12;CCA;;United Kingdom;BI Application;1;549;19;549
+2012;12;CCA;;Norway;BI Application;1;549;0;429
+2012;12;CCA;;Norway;CRM Application;1;6,99;0;6,99
+2013;1;CCA;;United Kingdom;BI Application;1;549;19;549
+2013;1;CCA;;South Africa;BI Application;1;549;0;549
+2013;1;CCA;;South Africa;CRM Application;1;6,99;0;6,99
+2013;1;CCA;MD;USA;BI Application;1;549;0;549
+2013;1;CCA;;Korea, South;BI Application;1;549;0;549
+2013;1;CCA;OH;USA;BI Application;2;466,65;0;933,3
+2013;1;CCA;OH;USA;CRM Application;1;6,99;0;6,99
+2013;1;CCA;CA;USA;BI Application;1;549;0;549
+2013;1;CCA;CA;USA;CRM Application;1;6,99;0;6,99
+2013;1;CCA;;France;Subscription;1;120;0;120
+2013;2;CCA;NJ;USA;BI Application;1;549;0;549
+2013;2;CCA;;Norway;BI Application;5;411,75;0;2058,75
+2013;2;CCA;;Norway;CRM Application;1;6,99;0;6,99
+2013;2;CCA;;Germany;Subscription;5;90;19;450
+2013;3;CCA;;United Arab Emirates;BI Application;1;549;0;549
+2013;3;CCA;;United Arab Emirates;CRM Application;1;6,99;0;6,99
+2013;3;CCA;TX;USA;BI Application;1;549;0;549
+2013;3;CCA;TX;USA;CRM Application;1;6,99;0;6,99
+2013;3;CCA;TX;USA;Invoice Application;1;12,5;0;12,5
+2013;3;CCA;GA;USA;BI Application;1;549;0;549
+2013;3;CCA;;France;BI Application;5;411,75;19;1852,87
+2013;3;CCA;;Switzerland;BI Application;1;549;0;549
+2013;3;CCA;;Switzerland;CRM Application;1;6,99;0;6,99
+2013;3;CCA;;Switzerland;Invoice Application;1;12,5;0;12,5
